@@ -1,13 +1,39 @@
-## Running React on Repl.it
+# Frontend component to waveportal 👋
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Deployments 💻
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+Vercel: https://aleemrehmtulla-waveportal.vercel.app/
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+Fleek: coming soon
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+Domain: coming soon
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+IPFS Hash: coming soon
+
+## For development 🧑‍💻
+
+### Scripts
+
+npm run dev (vite) | localhost:3000
+
+npm run build (vite build) | builds package 
+
+npm run serve (vite preview) | localhost:5000
+
+
+### Important notes
+
+- Vite is used for hot reload, has issues on mac
+
+- Edit app in /src/app.jsx
+
+- .env is needed for functionality 
+
+
+## Connect with me 🤗
+
+https://twitter.com/aleemrehmtulla
+
+https://aleem.rehmtulla.com
+
+https://www.linkedin.com/in/aleemrehmtulla/
