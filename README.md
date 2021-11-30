@@ -35,8 +35,6 @@ npm run serve (vite preview) | localhost:5000
 
 - Edit app in /src/app.jsx
 
-- .env is needed for functionality 
-
 
 ## Connect with me 🤗
 
