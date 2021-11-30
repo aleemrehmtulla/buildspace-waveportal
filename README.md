@@ -1,15 +1,35 @@
-# Basic Sample Hardhat Project
+# Contract compoment to waveportal 👋
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Deployments
 
-Try running some of the following tasks:
+https://rinkeby.etherscan.io/address/0x439cAd0AB0c5452F596c2DcCbfb2bF46b604dae4
 
-```shell
+## Development
+
+### Scripts
 npx hardhat accounts
+
 npx hardhat compile
+
 npx hardhat clean
+
 npx hardhat test
+
 npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+
+### .env
+
+You need both an account with alchemy & a rinkeby private key for .env
+
+Follow .envEXAMPLE file for format :)
+
+## Connect with me 🤗
+
+https://twitter.com/aleemrehmtulla
+
+https://aleem.rehmtulla.com
+
+https://www.linkedin.com/in/aleemrehmtulla/
+
+# HUGE shoutout to buildspace for this tutorial, really helped ❤️
