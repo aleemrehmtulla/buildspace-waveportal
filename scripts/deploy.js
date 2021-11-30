@@ -1,4 +1,5 @@
 const main = async () => {
+    require('dotenv').config()
     const [deployer] = await hre.ethers.getSigners();
     const accountBalance = await deployer.getBalance();
   
