@@ -5,7 +5,7 @@ import abi from './utils/WavePortal.json';
 
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState("");
-  const contractAddress = '0x979C671CA28A3f0F89eb168fD9bE6Dfe39506DEc';
+  const contractAddress = '0x439cAd0AB0c5452F596c2DcCbfb2bF46b604dae4';
   const contractABI = abi.abi
   
   const checkIfWalletIsConnected = async () => {
@@ -94,11 +94,11 @@ const wave = async () => {
     <div className="mainContainer">
       <div className="dataContainer">
         <div className="header">
-        👋 Hey there!
+        First Smart Contract 🤠
         </div>
 
         <div className="bio">
-          I am farza and I worked on self-driving cars so that's pretty cool right? Connect your Ethereum wallet and wave at me!
+          Hey hey! I'm <a href="https://twitter.com/aleemrehmtulla">aleemrehmtulla</a>, a 16/yo learning solidity - check this simple wave counter app I followed from BuildSpace :)
         </div>
 
         <button className="waveButton" onClick={wave}>
