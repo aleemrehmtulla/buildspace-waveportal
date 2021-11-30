@@ -12,11 +12,9 @@ I have console.log showing it mining, also view the contract here: https://rinke
 
 Vercel: https://aleemrehmtulla-waveportal.vercel.app/
 
-Fleek: coming soon
+Fleek: https://waveportal.aleemrehmtulla.com/
 
-Domain: coming soon
-
-IPFS Hash: coming soon
+IPFS Hash (11/30/2021): QmRHvfD3tQcQ2DLf1FRofeV9nYWhfqysmghYfhy4yWcjRa
 
 ## For development 🧑‍💻
 
