@@ -167,7 +167,8 @@ const App = () => {
           Hey hey! I'm{" "}
           <a href="https://twitter.com/aleemrehmtulla">aleemrehmtulla</a>, a
           16/yo learning solidity - check this simple wave counter app I
-          followed from BuildSpace :)
+          followed from BuildSpace :)<br /><br />
+          <b> must be on rinkeby, little warnings or debugging. more on intention in <a href="https://github.com/aleemrehmtulla/buildspace-waveportal">readme.md</a></b>
         </div>
 
         <button className="waveButton" onClick={wave}>
