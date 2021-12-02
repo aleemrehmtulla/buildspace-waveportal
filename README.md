@@ -33,6 +33,10 @@ npm run serve (vite preview) | localhost:5000
 
 - Edit app in /src/app.jsx
 
+## Intention
+
+I made this project soley to get my foot in with solidity, understand basics of connecting wallet, and start momentuum. I'm not to invested in on screen errors, the ui, or functionality. I'll keep that for my next project 😉.
+
 
 ## Connect with me 🤗
 
